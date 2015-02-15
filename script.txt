@@ -1,0 +1,15 @@
+create 'loginfo','logid','business','api'
+put 'loginfo', '199_1','business:app_name', 'platform'
+put 'loginfo', '199_1','business:product_name', 'member' 
+put 'loginfo', '199_1','business:module_name', 'member_management'
+put 'loginfo', '199_1','business:action_name', 'create'
+put 'loginfo', '199_2','business:app_name', 'platform'
+put 'loginfo', '199_2','business:product_name', 'member'
+put 'loginfo', '199_2','business:module_name', 'member_management'
+put 'loginfo', '199_2','business:action_name', 'edit'
+put 'loginfo', '199_3','business:app_name', 'platform'
+put 'loginfo', '199_3','business:product_name', 'member'
+put 'loginfo', '199_3','business:module_name', 'member_management'
+put 'loginfo', '199_3','business:action_name', 'create'
+
+
